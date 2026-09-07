@@ -5,13 +5,13 @@ about:
   head: 7159e9a
   archived: true
   latestVersion: "v1.8.14"
-  collectedAt: 2026-09-07T04:32:55Z
+  collectedAt: 2026-09-07T19:52:46Z
 timeline:
   created: 2017-10-25
   lastCommit: 2026-06-01
   lastRelease: 2026-06-03
 popularity:
-  star: 3295
+  star: 3294
   watcher: 121
   fork: 590
   release: 749
@@ -81,7 +81,7 @@ total:
   commit: 2406
 ---
 path: /home/runner/.x-repo/github.com/rancher/rke
-collectedAt: 2026-09-07T04:33:21Z
+collectedAt: 2026-09-07T19:53:15Z
 loc:
   Go:
     code: 22000
@@ -237,7 +237,7 @@ checks:
       - 'Info:   0 out of   1 downloadThenRun dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:22+00:00
+  collectedAt: 2026-09-07T19:53:16+00:00
   platform:
     darwin/arm64:
       name:  null
