@@ -5,7 +5,7 @@ about:
   head: 7159e9a
   archived: true
   latestVersion: "v1.8.14"
-  collectedAt: 2026-09-08T01:48:31Z
+  collectedAt: 2026-09-08T04:39:11Z
 timeline:
   created: 2017-10-25
   lastCommit: 2026-06-01
@@ -81,7 +81,7 @@ total:
   commit: 2406
 ---
 path: /home/runner/.x-repo/github.com/rancher/rke
-collectedAt: 2026-09-08T01:49:05Z
+collectedAt: 2026-09-08T04:39:50Z
 loc:
   Go:
     code: 22000
