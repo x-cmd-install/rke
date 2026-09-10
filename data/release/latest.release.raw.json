@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 70345680,
       "digest": "sha256:58a8081f6e8c854bec276b45d05c6f91aa14afc5a18f68a3af7018f4da7d7401",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-06-03T22:58:17Z",
       "updated_at": "2026-06-03T22:58:19Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_darwin-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 69608971,
       "digest": "sha256:d7abf5515d85e44aa58aa33994857781904eafc0e1f183aeebc978f5f8199667",
-      "download_count": 1073,
+      "download_count": 1081,
       "created_at": "2026-06-03T22:58:17Z",
       "updated_at": "2026-06-03T22:58:20Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 64791612,
       "digest": "sha256:4095be5f5949351d9f2015d57bd3eec5ffa1c67b0a4eab54d5e977faacd39174",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-06-03T22:58:17Z",
       "updated_at": "2026-06-03T22:58:19Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_linux-arm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 68146872,
       "digest": "sha256:aa1d048391e7f8928fc32baf2efe5c6e66e943550592eb7882b9e0fcd92c0c5d",
-      "download_count": 134,
+      "download_count": 135,
       "created_at": "2026-06-03T22:58:17Z",
       "updated_at": "2026-06-03T22:58:19Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 70557696,
       "digest": "sha256:a0330d3cee8d991036342224a74841ba0864a625190e43a56024ef03b62a9d8f",
-      "download_count": 375,
+      "download_count": 376,
       "created_at": "2026-06-03T22:58:19Z",
       "updated_at": "2026-06-03T22:58:22Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_windows-amd64.exe"
