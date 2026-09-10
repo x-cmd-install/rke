@@ -6,7 +6,7 @@
 
 Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 
-![rke](https://repo.x-cmd.io/rke.svg)
+![rke](https://repo.x-cmd.io/rke.svg?lang=zh)
 
 ## 安装
 
@@ -24,7 +24,20 @@ x install rke
 - **最新版本**: `v1.8.14` (2026-06-03)
 - **最近提交**: 2026-06-01
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-06-03T22:58:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [rke-extended-life-images.txt](https://github.com/rancher/rke/releases/download/v1.8.14/rke-extended-life-images.txt) | 1.6 KiB | `other` |
+| [rke-k8sversions.txt](https://github.com/rancher/rke/releases/download/v1.8.14/rke-k8sversions.txt) | 108 B | `other` |
+| [rke_darwin-amd64](https://github.com/rancher/rke/releases/download/v1.8.14/rke_darwin-amd64) | 67.1 MiB | `native/darwin/x64` |
+| [rke_linux-amd64](https://github.com/rancher/rke/releases/download/v1.8.14/rke_linux-amd64) | 66.4 MiB | `native/linux/x64` |
+| [rke_linux-arm](https://github.com/rancher/rke/releases/download/v1.8.14/rke_linux-arm) | 61.8 MiB | `native/linux/arm` |
+| [rke_linux-arm64](https://github.com/rancher/rke/releases/download/v1.8.14/rke_linux-arm64) | 65.0 MiB | `native/linux/arm64` |
+| [rke_windows-386.exe](https://github.com/rancher/rke/releases/download/v1.8.14/rke_windows-386.exe) | 63.6 MiB | `native/win/x64` |
+| [rke_windows-amd64.exe](https://github.com/rancher/rke/releases/download/v1.8.14/rke_windows-amd64.exe) | 67.3 MiB | `native/win/x64` |
+| [sha256sum.txt](https://github.com/rancher/rke/releases/download/v1.8.14/sha256sum.txt) | 674 B | `other` |
 
 ## 流行度
 
@@ -73,4 +86,4 @@ rke 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:36:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:19:24Z._

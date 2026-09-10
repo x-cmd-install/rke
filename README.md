@@ -24,7 +24,20 @@ x install rke
 - **Latest**: `v1.8.14` (2026-06-03)
 - **Last commit**: 2026-06-01
 - **Assets in release**: 9
-- **Published**: 2026-06-03T22:58:22Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [rke-extended-life-images.txt](https://github.com/rancher/rke/releases/download/v1.8.14/rke-extended-life-images.txt) | 1.6 KiB | `other` |
+| [rke-k8sversions.txt](https://github.com/rancher/rke/releases/download/v1.8.14/rke-k8sversions.txt) | 108 B | `other` |
+| [rke_darwin-amd64](https://github.com/rancher/rke/releases/download/v1.8.14/rke_darwin-amd64) | 67.1 MiB | `native/darwin/x64` |
+| [rke_linux-amd64](https://github.com/rancher/rke/releases/download/v1.8.14/rke_linux-amd64) | 66.4 MiB | `native/linux/x64` |
+| [rke_linux-arm](https://github.com/rancher/rke/releases/download/v1.8.14/rke_linux-arm) | 61.8 MiB | `native/linux/arm` |
+| [rke_linux-arm64](https://github.com/rancher/rke/releases/download/v1.8.14/rke_linux-arm64) | 65.0 MiB | `native/linux/arm64` |
+| [rke_windows-386.exe](https://github.com/rancher/rke/releases/download/v1.8.14/rke_windows-386.exe) | 63.6 MiB | `native/win/x64` |
+| [rke_windows-amd64.exe](https://github.com/rancher/rke/releases/download/v1.8.14/rke_windows-amd64.exe) | 67.3 MiB | `native/win/x64` |
+| [sha256sum.txt](https://github.com/rancher/rke/releases/download/v1.8.14/sha256sum.txt) | 674 B | `other` |
 
 ## Popularity
 
@@ -69,8 +82,8 @@ Lowest-scoring checks:
 Install metadata for rke lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rke` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/rke.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/rke.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:36:44Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:23Z._
