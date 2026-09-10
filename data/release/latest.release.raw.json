@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 69608971,
       "digest": "sha256:d7abf5515d85e44aa58aa33994857781904eafc0e1f183aeebc978f5f8199667",
-      "download_count": 1081,
+      "download_count": 1083,
       "created_at": "2026-06-03T22:58:17Z",
       "updated_at": "2026-06-03T22:58:20Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 66712576,
       "digest": "sha256:d7b7419bd0b734c1f5f6e926d53129807bb43fbda62c3e9586287f682ebdd5f8",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-06-03T22:58:17Z",
       "updated_at": "2026-06-03T22:58:20Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_windows-386.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 70557696,
       "digest": "sha256:a0330d3cee8d991036342224a74841ba0864a625190e43a56024ef03b62a9d8f",
-      "download_count": 376,
+      "download_count": 380,
       "created_at": "2026-06-03T22:58:19Z",
       "updated_at": "2026-06-03T22:58:22Z",
       "browser_download_url": "https://github.com/rancher-archives/rke/releases/download/v1.8.14/rke_windows-amd64.exe"
