@@ -28,12 +28,12 @@ Total: **22,457** lines of code across **125** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.3 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — project is archived
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rke lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:52:06Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:15:20Z._
