@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-21 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-22 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-22 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-23 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for rke lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:15:20Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:42:58Z._
