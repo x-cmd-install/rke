@@ -4,7 +4,7 @@
   binname: rke
   visiblename: rke
   version: 1.4.3
-  origversion: 1.4.3-r26
+  origversion: 1.4.3-r27
   status: outdated
   summary: Rancher Kubernetes Engine
   maintainers:
@@ -17,7 +17,7 @@
   binname: rke-doc
   visiblename: rke-doc
   version: 1.4.3
-  origversion: 1.4.3-r26
+  origversion: 1.4.3-r27
   status: outdated
   summary: Rancher Kubernetes Engine (documentation)
   maintainers:
